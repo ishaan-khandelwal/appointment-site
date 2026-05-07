@@ -63,7 +63,7 @@ A modern, responsive web application for managing beauty parlour appointments an
 
 ## 📂 Project Structure
 
-```
+
 appoint/
 ├── src/                # Frontend React components & styles
 │   ├── App.jsx         # Main application logic
@@ -77,7 +77,7 @@ appoint/
 ├── index.html          # HTML template
 ├── package.json        # Frontend dependencies
 └── README.md           # Project documentation
-```
+
 
 ## 📍 Location
 **Shop no. 44, Goverdhan Plaza**  
